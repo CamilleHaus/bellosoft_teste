@@ -44,7 +44,7 @@ const Signup = () => {
     <div className="flex items-center justify-center bg-gray-100 max-md:h-screen overflow-hidden">
       <form
         onSubmit={handleSubmit(submit)}
-        className="bg-leaf bg-cover w-full max-w-[400px] h-fit my-8 py-6 px-8 flex flex-col font-tenor max-sm:h-[90%] shadow-md shadow-offset-down rounded-md overflow-y-auto"
+        className="bg-leaf bg-cover w-full max-w-[400px] h-fit my-8 py-6 px-8 flex flex-col font-tenor shadow-md shadow-offset-down rounded-md overflow-y-auto"
       >
         <div className="mb-4 flex flex-col gap-4 mt-12">
           <Link to="/">

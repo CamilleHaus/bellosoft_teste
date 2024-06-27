@@ -43,7 +43,7 @@ const Login: React.FC = () => {
     <div className="flex items-center justify-center bg-gray-100 max-md:h-screen">
       <form
         onSubmit={handleSubmit(submit)}
-        className="bg-leaf bg-cover w-full h-fit my-8 max-w-[400px] py-6 px-8 my-4 flex flex-col font-tenor max-sm:h-[90%] shadow-md shadow-offset-down rounded-md"
+        className="bg-leaf bg-cover w-full h-fit my-8 max-w-[400px] py-6 px-8 my-4 flex flex-col font-tenor shadow-md shadow-offset-down rounded-md"
       >
         <div className="mb-4 flex flex-col gap-4 mt-12">
           <Link to="/signup">
