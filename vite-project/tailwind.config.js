@@ -8,8 +8,11 @@ module.exports = {
       colors: {
         "primary": "#BC8363"
       },
+      fontFamily: {
+        "tenor": ['Tenor sans', 'sans-serif']
+      },
       backgroundImage: {
-        'leaf': "url(/Untitled-design.png)"
+        'leaf': "url(/assets/leaf4.png)"
       }
     },
   },
