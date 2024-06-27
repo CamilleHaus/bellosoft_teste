@@ -1,11 +1,8 @@
 import "./index.css";
-import Login from "./pages/LoginPage/login";
 
 
 const App = ()  => {
-  return (
-    <Login />
-  )
+  return 
 }
 
 export default App;
